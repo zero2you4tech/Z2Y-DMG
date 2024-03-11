@@ -42,4 +42,6 @@ Use it freely, do what you want to do.
 
 如果觉得不错，请我喝一杯 Coffee 吧！[【前往】](https://www.buymeacoffee.com/petterobam)
 
-If you like it, buy me a cup of coffee! [Go](https://www.buymeacoffee.com/petterobam)
+If you like it, buy me a cup of coffee！ [Go](https://www.buymeacoffee.com/petterobam)
+
+![CollectPay](imgs/CollectPay.jpg)
