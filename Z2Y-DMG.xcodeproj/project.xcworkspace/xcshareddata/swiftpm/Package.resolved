@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "appdmg",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/petterobam/AppDMG.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d8b7c0acab726f53421604aa6c44efc7c0ec9f7d"
+      }
+    }
+  ],
+  "version" : 2
+}

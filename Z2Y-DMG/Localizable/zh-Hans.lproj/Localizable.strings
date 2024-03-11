@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Z2Y-RM
+
+  Created by Oyjie on 2/21/24.
+  
+*/
+
+"AddAppFileByDropOrClick" = "拖拽你的 app 文件到这里，或者点击添加 app 文件。";
+"PleaseChooseAppFile" = "请选择 .app 文件";
+"PleaseChooseOtherFile" = "请选择其他文件（README、License等等，可选）";
+"PleaseChooseSaveDmgDir" = "请选择将要存储 .dmg 文件的文件夹";
+"Create" = "创建";
+"PleaseWait_" = "请稍等...";
+"Yes" = "是";
+"No" = "否";
+"Copied" = "已复制";
+"to" = "到";
+"Floder" = "文件夹";
+"PleaseDrop" = "请拖拽";

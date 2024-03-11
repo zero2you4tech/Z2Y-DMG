@@ -7,44 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6DE796D62B871CB500627A2B /* Z2Y_DMGApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE796D52B871CB500627A2B /* Z2Y_DMGApp.swift */; };
+		6D83FD092B88711400131C2A /* FlatButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D83FD022B88711400131C2A /* FlatButton.swift */; };
+		6D83FD0D2B88711400131C2A /* HoverClickUnderlineBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D83FD062B88711400131C2A /* HoverClickUnderlineBtn.swift */; };
+		6D83FD0E2B88711400131C2A /* FlatPlusBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D83FD072B88711400131C2A /* FlatPlusBtn.swift */; };
+		6D83FD1B2B88720800131C2A /* OverlayFlatSolidBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D83FD112B88720800131C2A /* OverlayFlatSolidBorder.swift */; };
+		6D83FD1E2B88720800131C2A /* OverlayUnderline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D83FD142B88720800131C2A /* OverlayUnderline.swift */; };
+		6D83FD232B88720800131C2A /* OverlayStrokeBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D83FD192B88720800131C2A /* OverlayStrokeBorder.swift */; };
+		6DE796D62B871CB500627A2B /* MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE796D52B871CB500627A2B /* MainApp.swift */; };
 		6DE796D82B871CB500627A2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE796D72B871CB500627A2B /* ContentView.swift */; };
 		6DE796DA2B871CB600627A2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DE796D92B871CB600627A2B /* Assets.xcassets */; };
-		6DE796DD2B871CB600627A2B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DE796DC2B871CB600627A2B /* Preview Assets.xcassets */; };
-		6DE796E82B871CB600627A2B /* Z2Y_DMGTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE796E72B871CB600627A2B /* Z2Y_DMGTests.swift */; };
-		6DE796F22B871CB600627A2B /* Z2Y_DMGUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE796F12B871CB600627A2B /* Z2Y_DMGUITests.swift */; };
-		6DE796F42B871CB600627A2B /* Z2Y_DMGUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE796F32B871CB600627A2B /* Z2Y_DMGUITestsLaunchTests.swift */; };
+		6DE797022B871FC600627A2B /* SystemUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE797012B871FC600627A2B /* SystemUtil.swift */; };
+		6DE797062B873B2E00627A2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE797052B873B2E00627A2B /* AppDelegate.swift */; };
+		6DE797092B873DBC00627A2B /* DmgInfoObj.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE797082B873DBC00627A2B /* DmgInfoObj.swift */; };
+		6DF75F662B873EEE00C86239 /* QueueUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF75F652B873EEE00C86239 /* QueueUtil.swift */; };
+		6DF75F682B874BB900C86239 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6DF75F672B874BB900C86239 /* Info.plist */; };
+		6DF75F702B87846600C86239 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6DF75F6A2B87846600C86239 /* Localizable.strings */; };
+		6DF75F712B87846600C86239 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6DF75F6C2B87846600C86239 /* InfoPlist.strings */; };
+		6DF75F762B87881400C86239 /* ContentRepeatAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF75F732B87881400C86239 /* ContentRepeatAnimation.swift */; };
+		6DF75F772B87881400C86239 /* RotationAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF75F742B87881400C86239 /* RotationAnimation.swift */; };
+		6DF75F782B87881400C86239 /* ColorRepeatAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF75F752B87881400C86239 /* ColorRepeatAnimation.swift */; };
+		6DFA44022B9F4A6500D382A4 /* AppDMG in Frameworks */ = {isa = PBXBuildFile; productRef = 6DFA44012B9F4A6500D382A4 /* AppDMG */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		6DE796E42B871CB600627A2B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 6DE796CA2B871CB400627A2B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6DE796D12B871CB500627A2B;
-			remoteInfo = "Z2Y-DMG";
-		};
-		6DE796EE2B871CB600627A2B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 6DE796CA2B871CB400627A2B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 6DE796D12B871CB500627A2B;
-			remoteInfo = "Z2Y-DMG";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		6DE796D22B871CB500627A2B /* Z2Y-DMG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Z2Y-DMG.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6DE796D52B871CB500627A2B /* Z2Y_DMGApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Z2Y_DMGApp.swift; sourceTree = "<group>"; };
+		6D83FD022B88711400131C2A /* FlatButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlatButton.swift; sourceTree = "<group>"; };
+		6D83FD062B88711400131C2A /* HoverClickUnderlineBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HoverClickUnderlineBtn.swift; sourceTree = "<group>"; };
+		6D83FD072B88711400131C2A /* FlatPlusBtn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlatPlusBtn.swift; sourceTree = "<group>"; };
+		6D83FD112B88720800131C2A /* OverlayFlatSolidBorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OverlayFlatSolidBorder.swift; sourceTree = "<group>"; };
+		6D83FD142B88720800131C2A /* OverlayUnderline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OverlayUnderline.swift; sourceTree = "<group>"; };
+		6D83FD192B88720800131C2A /* OverlayStrokeBorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OverlayStrokeBorder.swift; sourceTree = "<group>"; };
+		6DE796D22B871CB500627A2B /* Z2Y Dmg Creator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Z2Y Dmg Creator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DE796D52B871CB500627A2B /* MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApp.swift; sourceTree = "<group>"; };
 		6DE796D72B871CB500627A2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6DE796D92B871CB600627A2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6DE796DC2B871CB600627A2B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		6DE796DE2B871CB600627A2B /* Z2Y_DMG.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Z2Y_DMG.entitlements; sourceTree = "<group>"; };
-		6DE796E32B871CB600627A2B /* Z2Y-DMGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Z2Y-DMGTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6DE796E72B871CB600627A2B /* Z2Y_DMGTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Z2Y_DMGTests.swift; sourceTree = "<group>"; };
-		6DE796ED2B871CB600627A2B /* Z2Y-DMGUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Z2Y-DMGUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6DE796F12B871CB600627A2B /* Z2Y_DMGUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Z2Y_DMGUITests.swift; sourceTree = "<group>"; };
-		6DE796F32B871CB600627A2B /* Z2Y_DMGUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Z2Y_DMGUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6DE796DE2B871CB600627A2B /* Z2Y.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Z2Y.entitlements; sourceTree = "<group>"; };
+		6DE797012B871FC600627A2B /* SystemUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemUtil.swift; sourceTree = "<group>"; };
+		6DE797052B873B2E00627A2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6DE797082B873DBC00627A2B /* DmgInfoObj.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DmgInfoObj.swift; sourceTree = "<group>"; };
+		6DF75F652B873EEE00C86239 /* QueueUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueUtil.swift; sourceTree = "<group>"; };
+		6DF75F672B874BB900C86239 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6DF75F6B2B87846600C86239 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		6DF75F6D2B87846600C86239 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		6DF75F6E2B87846600C86239 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6DF75F6F2B87846600C86239 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6DF75F732B87881400C86239 /* ContentRepeatAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentRepeatAnimation.swift; sourceTree = "<group>"; };
+		6DF75F742B87881400C86239 /* RotationAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotationAnimation.swift; sourceTree = "<group>"; };
+		6DF75F752B87881400C86239 /* ColorRepeatAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorRepeatAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,32 +60,47 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6DE796E02B871CB600627A2B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6DE796EA2B871CB600627A2B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				6DFA44022B9F4A6500D382A4 /* AppDMG in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6D83FCFF2B8870FD00131C2A /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				6DF75F752B87881400C86239 /* ColorRepeatAnimation.swift */,
+				6DF75F732B87881400C86239 /* ContentRepeatAnimation.swift */,
+				6DF75F742B87881400C86239 /* RotationAnimation.swift */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
+		6D83FD002B88711400131C2A /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				6D83FD022B88711400131C2A /* FlatButton.swift */,
+				6D83FD062B88711400131C2A /* HoverClickUnderlineBtn.swift */,
+				6D83FD072B88711400131C2A /* FlatPlusBtn.swift */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		6D83FD0F2B88720800131C2A /* Overlay */ = {
+			isa = PBXGroup;
+			children = (
+				6D83FD112B88720800131C2A /* OverlayFlatSolidBorder.swift */,
+				6D83FD142B88720800131C2A /* OverlayUnderline.swift */,
+				6D83FD192B88720800131C2A /* OverlayStrokeBorder.swift */,
+			);
+			path = Overlay;
+			sourceTree = "<group>";
+		};
 		6DE796C92B871CB400627A2B = {
 			isa = PBXGroup;
 			children = (
 				6DE796D42B871CB500627A2B /* Z2Y-DMG */,
-				6DE796E62B871CB600627A2B /* Z2Y-DMGTests */,
-				6DE796F02B871CB600627A2B /* Z2Y-DMGUITests */,
 				6DE796D32B871CB500627A2B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +108,7 @@
 		6DE796D32B871CB500627A2B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6DE796D22B871CB500627A2B /* Z2Y-DMG.app */,
-				6DE796E32B871CB600627A2B /* Z2Y-DMGTests.xctest */,
-				6DE796ED2B871CB600627A2B /* Z2Y-DMGUITests.xctest */,
+				6DE796D22B871CB500627A2B /* Z2Y Dmg Creator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,38 +116,54 @@
 		6DE796D42B871CB500627A2B /* Z2Y-DMG */ = {
 			isa = PBXGroup;
 			children = (
-				6DE796D52B871CB500627A2B /* Z2Y_DMGApp.swift */,
+				6DF75F722B87880500C86239 /* Plugin */,
+				6DF75F692B87846600C86239 /* Localizable */,
+				6DE797072B873DA000627A2B /* Obj */,
+				6DE797002B871F6500627A2B /* Utils */,
+				6DE796D52B871CB500627A2B /* MainApp.swift */,
 				6DE796D72B871CB500627A2B /* ContentView.swift */,
+				6DE797052B873B2E00627A2B /* AppDelegate.swift */,
 				6DE796D92B871CB600627A2B /* Assets.xcassets */,
-				6DE796DE2B871CB600627A2B /* Z2Y_DMG.entitlements */,
-				6DE796DB2B871CB600627A2B /* Preview Content */,
+				6DE796DE2B871CB600627A2B /* Z2Y.entitlements */,
+				6DF75F672B874BB900C86239 /* Info.plist */,
 			);
 			path = "Z2Y-DMG";
 			sourceTree = "<group>";
 		};
-		6DE796DB2B871CB600627A2B /* Preview Content */ = {
+		6DE797002B871F6500627A2B /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				6DE796DC2B871CB600627A2B /* Preview Assets.xcassets */,
+				6DE797012B871FC600627A2B /* SystemUtil.swift */,
+				6DF75F652B873EEE00C86239 /* QueueUtil.swift */,
 			);
-			path = "Preview Content";
+			path = Utils;
 			sourceTree = "<group>";
 		};
-		6DE796E62B871CB600627A2B /* Z2Y-DMGTests */ = {
+		6DE797072B873DA000627A2B /* Obj */ = {
 			isa = PBXGroup;
 			children = (
-				6DE796E72B871CB600627A2B /* Z2Y_DMGTests.swift */,
+				6DE797082B873DBC00627A2B /* DmgInfoObj.swift */,
 			);
-			path = "Z2Y-DMGTests";
+			path = Obj;
 			sourceTree = "<group>";
 		};
-		6DE796F02B871CB600627A2B /* Z2Y-DMGUITests */ = {
+		6DF75F692B87846600C86239 /* Localizable */ = {
 			isa = PBXGroup;
 			children = (
-				6DE796F12B871CB600627A2B /* Z2Y_DMGUITests.swift */,
-				6DE796F32B871CB600627A2B /* Z2Y_DMGUITestsLaunchTests.swift */,
+				6DF75F6A2B87846600C86239 /* Localizable.strings */,
+				6DF75F6C2B87846600C86239 /* InfoPlist.strings */,
 			);
-			path = "Z2Y-DMGUITests";
+			path = Localizable;
+			sourceTree = "<group>";
+		};
+		6DF75F722B87880500C86239 /* Plugin */ = {
+			isa = PBXGroup;
+			children = (
+				6D83FD0F2B88720800131C2A /* Overlay */,
+				6D83FD002B88711400131C2A /* Button */,
+				6D83FCFF2B8870FD00131C2A /* Animation */,
+			);
+			path = Plugin;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -145,45 +182,12 @@
 			dependencies = (
 			);
 			name = "Z2Y-DMG";
+			packageProductDependencies = (
+				6DFA44012B9F4A6500D382A4 /* AppDMG */,
+			);
 			productName = "Z2Y-DMG";
-			productReference = 6DE796D22B871CB500627A2B /* Z2Y-DMG.app */;
+			productReference = 6DE796D22B871CB500627A2B /* Z2Y Dmg Creator.app */;
 			productType = "com.apple.product-type.application";
-		};
-		6DE796E22B871CB600627A2B /* Z2Y-DMGTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 6DE796FA2B871CB600627A2B /* Build configuration list for PBXNativeTarget "Z2Y-DMGTests" */;
-			buildPhases = (
-				6DE796DF2B871CB600627A2B /* Sources */,
-				6DE796E02B871CB600627A2B /* Frameworks */,
-				6DE796E12B871CB600627A2B /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				6DE796E52B871CB600627A2B /* PBXTargetDependency */,
-			);
-			name = "Z2Y-DMGTests";
-			productName = "Z2Y-DMGTests";
-			productReference = 6DE796E32B871CB600627A2B /* Z2Y-DMGTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		6DE796EC2B871CB600627A2B /* Z2Y-DMGUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 6DE796FD2B871CB600627A2B /* Build configuration list for PBXNativeTarget "Z2Y-DMGUITests" */;
-			buildPhases = (
-				6DE796E92B871CB600627A2B /* Sources */,
-				6DE796EA2B871CB600627A2B /* Frameworks */,
-				6DE796EB2B871CB600627A2B /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				6DE796EF2B871CB600627A2B /* PBXTargetDependency */,
-			);
-			name = "Z2Y-DMGUITests";
-			productName = "Z2Y-DMGUITests";
-			productReference = 6DE796ED2B871CB600627A2B /* Z2Y-DMGUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
@@ -198,32 +202,26 @@
 					6DE796D12B871CB500627A2B = {
 						CreatedOnToolsVersion = 15.0;
 					};
-					6DE796E22B871CB600627A2B = {
-						CreatedOnToolsVersion = 15.0;
-						TestTargetID = 6DE796D12B871CB500627A2B;
-					};
-					6DE796EC2B871CB600627A2B = {
-						CreatedOnToolsVersion = 15.0;
-						TestTargetID = 6DE796D12B871CB500627A2B;
-					};
 				};
 			};
 			buildConfigurationList = 6DE796CD2B871CB400627A2B /* Build configuration list for PBXProject "Z2Y-DMG" */;
 			compatibilityVersion = "Xcode 14.0";
-			developmentRegion = en;
+			developmentRegion = "zh-Hans";
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				"zh-Hans",
 				Base,
 			);
 			mainGroup = 6DE796C92B871CB400627A2B;
+			packageReferences = (
+				6DFA44002B9F4A6500D382A4 /* XCRemoteSwiftPackageReference "AppDMG" */,
+			);
 			productRefGroup = 6DE796D32B871CB500627A2B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				6DE796D12B871CB500627A2B /* Z2Y-DMG */,
-				6DE796E22B871CB600627A2B /* Z2Y-DMGTests */,
-				6DE796EC2B871CB600627A2B /* Z2Y-DMGUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -233,22 +231,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DE796DD2B871CB600627A2B /* Preview Assets.xcassets in Resources */,
+				6DF75F682B874BB900C86239 /* Info.plist in Resources */,
+				6DF75F712B87846600C86239 /* InfoPlist.strings in Resources */,
+				6DF75F702B87846600C86239 /* Localizable.strings in Resources */,
 				6DE796DA2B871CB600627A2B /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6DE796E12B871CB600627A2B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6DE796EB2B871CB600627A2B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,42 +245,46 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DE797062B873B2E00627A2B /* AppDelegate.swift in Sources */,
+				6DF75F662B873EEE00C86239 /* QueueUtil.swift in Sources */,
+				6DF75F772B87881400C86239 /* RotationAnimation.swift in Sources */,
+				6DE797022B871FC600627A2B /* SystemUtil.swift in Sources */,
+				6D83FD0D2B88711400131C2A /* HoverClickUnderlineBtn.swift in Sources */,
+				6D83FD1E2B88720800131C2A /* OverlayUnderline.swift in Sources */,
+				6D83FD092B88711400131C2A /* FlatButton.swift in Sources */,
+				6DE797092B873DBC00627A2B /* DmgInfoObj.swift in Sources */,
+				6D83FD232B88720800131C2A /* OverlayStrokeBorder.swift in Sources */,
+				6D83FD1B2B88720800131C2A /* OverlayFlatSolidBorder.swift in Sources */,
+				6D83FD0E2B88711400131C2A /* FlatPlusBtn.swift in Sources */,
 				6DE796D82B871CB500627A2B /* ContentView.swift in Sources */,
-				6DE796D62B871CB500627A2B /* Z2Y_DMGApp.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6DE796DF2B871CB600627A2B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6DE796E82B871CB600627A2B /* Z2Y_DMGTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6DE796E92B871CB600627A2B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6DE796F22B871CB600627A2B /* Z2Y_DMGUITests.swift in Sources */,
-				6DE796F42B871CB600627A2B /* Z2Y_DMGUITestsLaunchTests.swift in Sources */,
+				6DF75F762B87881400C86239 /* ContentRepeatAnimation.swift in Sources */,
+				6DF75F782B87881400C86239 /* ColorRepeatAnimation.swift in Sources */,
+				6DE796D62B871CB500627A2B /* MainApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		6DE796E52B871CB600627A2B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 6DE796D12B871CB500627A2B /* Z2Y-DMG */;
-			targetProxy = 6DE796E42B871CB600627A2B /* PBXContainerItemProxy */;
+/* Begin PBXVariantGroup section */
+		6DF75F6A2B87846600C86239 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6DF75F6B2B87846600C86239 /* zh-Hans */,
+				6DF75F6E2B87846600C86239 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
 		};
-		6DE796EF2B871CB600627A2B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 6DE796D12B871CB500627A2B /* Z2Y-DMG */;
-			targetProxy = 6DE796EE2B871CB600627A2B /* PBXContainerItemProxy */;
+		6DF75F6C2B87846600C86239 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6DF75F6D2B87846600C86239 /* zh-Hans */,
+				6DF75F6F2B87846600C86239 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
 		};
-/* End PBXTargetDependency section */
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		6DE796F52B871CB600627A2B /* Debug */ = {
@@ -420,23 +410,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "Z2Y-DMG/Z2Y_DMG.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Z2Y-DMG/Z2Y.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Z2Y-DMG/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 27F3J29B8W;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Z2Y-DMG/Info.plist";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zero2you.Z2Y-DMG";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = zero2you.Z2Y.DMG;
+				PRODUCT_NAME = "Z2Y Dmg Creator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
@@ -447,97 +438,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "Z2Y-DMG/Z2Y_DMG.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Z2Y-DMG/Z2Y.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Z2Y-DMG/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = 27F3J29B8W;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Z2Y-DMG/Info.plist";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zero2you.Z2Y-DMG";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = zero2you.Z2Y.DMG;
+				PRODUCT_NAME = "Z2Y Dmg Creator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
-		6DE796FB2B871CB600627A2B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 27F3J29B8W;
-				GENERATE_INFOPLIST_FILE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zero2you.Z2Y-DMGTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Z2Y-DMG.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Z2Y-DMG";
-			};
-			name = Debug;
-		};
-		6DE796FC2B871CB600627A2B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 27F3J29B8W;
-				GENERATE_INFOPLIST_FILE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zero2you.Z2Y-DMGTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Z2Y-DMG.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Z2Y-DMG";
-			};
-			name = Release;
-		};
-		6DE796FE2B871CB600627A2B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 27F3J29B8W;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zero2you.Z2Y-DMGUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "Z2Y-DMG";
-			};
-			name = Debug;
-		};
-		6DE796FF2B871CB600627A2B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 27F3J29B8W;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zero2you.Z2Y-DMGUITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = "Z2Y-DMG";
 			};
 			name = Release;
 		};
@@ -562,25 +482,26 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6DE796FA2B871CB600627A2B /* Build configuration list for PBXNativeTarget "Z2Y-DMGTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				6DE796FB2B871CB600627A2B /* Debug */,
-				6DE796FC2B871CB600627A2B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		6DE796FD2B871CB600627A2B /* Build configuration list for PBXNativeTarget "Z2Y-DMGUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				6DE796FE2B871CB600627A2B /* Debug */,
-				6DE796FF2B871CB600627A2B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6DFA44002B9F4A6500D382A4 /* XCRemoteSwiftPackageReference "AppDMG" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/petterobam/AppDMG.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6DFA44012B9F4A6500D382A4 /* AppDMG */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6DFA44002B9F4A6500D382A4 /* XCRemoteSwiftPackageReference "AppDMG" */;
+			productName = AppDMG;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 6DE796CA2B871CB400627A2B /* Project object */;
 }

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Z2Y
+
+  Created by Oyjie on 2023/11/27.
+  
+*/
+"CFBundleName" = "Z2Y@DMG";
+"CFBundleDisplayName" = " Z2Y Dmg Creater";
+"File" = "文件";
+"Edit" = "编辑";
+"View" = "视图";
+"Window" = "窗口";
+"Help" = "帮助";
+
+

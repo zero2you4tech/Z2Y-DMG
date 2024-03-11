@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Z2Y-RM
+
+  Created by Oyjie on 2/21/24.
+  
+*/
+"AddAppFileByDropOrClick" = "Drag and drop your .app file here, or click to select.";
+"PleaseChooseAppFile" = "Please choose .app File.";
+"PleaseChooseOtherFile" = "Please select another file (e.g., README, License, etc., optional)";
+"PleaseChooseSaveDmgDir" = "Choose a Directory to Save .dmg File.";
+"Create" = "Create";
+"PleaseWait_" = "Please Wait...";
+"Yes" = "Yes";
+"No" = "No";
+"Copied" = "Copied";
+"to" = "to";
+"Floder" = "Floder";
+"PleaseDrop" = "Please Drop";

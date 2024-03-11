@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4628D20E-EC0C-40B4-802C-D96567C97082"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C04EE50D-6949-4C70-A45E-6CE9A3F8B05C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Z2Y-DMG/Obj/DmgInfoObj.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "handleOtherDrops(providers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C04EE50D-6949-4C70-A45E-6CE9A3F8B05C - 57272e86b28105a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; Swift.Bool"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "C04EE50D-6949-4C70-A45E-6CE9A3F8B05C - 9888811938645c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSSecureCoding&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; Swift.Bool"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "C04EE50D-6949-4C70-A45E-6CE9A3F8B05C - 6ad9ddc4c30a7fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; ()"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "C04EE50D-6949-4C70-A45E-6CE9A3F8B05C - 16aa9acf12963e45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSSecureCoding&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; ()"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "C04EE50D-6949-4C70-A45E-6CE9A3F8B05C - 16aa9acf12963e45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSSecureCoding&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; ()"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4820B23-F752-4359-B516-064EE3967DF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Z2Y-DMG/Obj/DmgInfoObj.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "handleOtherDrops(providers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4820B23-F752-4359-B516-064EE3967DF2 - 988881193864567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSSecureCoding&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; Swift.Bool"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "D4820B23-F752-4359-B516-064EE3967DF2 - 54c9acb884051743"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Z2Y_DMG.DmgInfoObj.handleDrop(providers: Swift.Array&lt;__C.NSItemProvider&gt;) -&gt; Swift.Bool"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86FAABF7-00F8-4EEE-8AE2-20EFCD72329B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Z2Y-DMG/Obj/DmgInfoObj.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "createDMG(dmgFolderPath:appPath:finshOpenDir:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86FAABF7-00F8-4EEE-8AE2-20EFCD72329B - dc69defa675ff04f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Z2Y_DMG.DmgInfoObj.createDMG(dmgFolderPath: Swift.String, appPath: Swift.String, finshOpenDir: Swift.Bool) -&gt; ()"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "4144">
+               </Location>
+               <Location
+                  uuid = "86FAABF7-00F8-4EEE-8AE2-20EFCD72329B - dc69defa675ff04f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Z2Y_DMG.DmgInfoObj.createDMG(dmgFolderPath: Swift.String, appPath: Swift.String, finshOpenDir: Swift.Bool) -&gt; ()"
+                  moduleName = "Z2Y-DMG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oyjie/WorkSpace/Project/Z2Y-DMG/Z2Y-DMG/Obj/DmgInfoObj.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "4400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
