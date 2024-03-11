@@ -53,6 +53,7 @@
 		6DF75F732B87881400C86239 /* ContentRepeatAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentRepeatAnimation.swift; sourceTree = "<group>"; };
 		6DF75F742B87881400C86239 /* RotationAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotationAnimation.swift; sourceTree = "<group>"; };
 		6DF75F752B87881400C86239 /* ColorRepeatAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorRepeatAnimation.swift; sourceTree = "<group>"; };
+		6DFA44032B9F4ED600D382A4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 		6DE796C92B871CB400627A2B = {
 			isa = PBXGroup;
 			children = (
+				6DFA44032B9F4ED600D382A4 /* README.md */,
 				6DE796D42B871CB500627A2B /* Z2Y-DMG */,
 				6DE796D32B871CB500627A2B /* Products */,
 			);
@@ -425,7 +427,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = zero2you.Z2Y.DMG;
 				PRODUCT_NAME = "Z2Y Dmg Creator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -453,7 +455,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MARKETING_VERSION = 1.0.1;
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = zero2you.Z2Y.DMG;
 				PRODUCT_NAME = "Z2Y Dmg Creator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
